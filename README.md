@@ -4,20 +4,22 @@
     <img src="https://i.imgur.com/WmMnSRt.png" alt="Trường Đại học Công nghệ Thông tin | University of Information Technology">
   </a>
 </p>
-<h1 align="center"><b>Nhập Môn Thị Giác Máy Tính</b></h>
+<h1 align="center"><b>Computer Vision</b></h>
 
-## SINH VIÊN
- MSSV          | Họ và Tên              | Github                    | Email                   |
+## Student
+ MSSV          | Full name            | Github                    | Email                   |
  ------------- | ---------------------- |---------------------------|------------------------- 
  19521994      | Ngô Thành Phát         |https://github.com/RobertNgo19 |19521994@gm.uit.edu.vn   |
  
- ## GIỚI THIỆU MÔN HỌC
-* **Tên môn học:** Nhập môn Thị giác máy tính
-* **Mã môn học:** CS231
-* **Mã lớp:** CS231.N12.KHCL- VN
-* **Năm học:** HK1 (2022 - 2023)
-* **Giảng viên**: ThS.Mai Tiến Dũng  
+  ## COURSE INTRODUCTION
+* **Subject Title:** Computer Vision
+* **Subject Code:** CS231
+* **Class Code:** CS231.N12.KHCL- VN
+* **Lecturers**: TS.Mai Tiến Dũng
 
- ## Ngôn Ngữ Lập Trình: Python
+## Programing Languages: Python
  
+ ## Project: Face Expression Regconition
+ - File Report: [Report](https://github.com/RobertNgo19/Face-Keypoint-Detection-w-CNN/blob/main/project/Report.pdf)
+ - Code: [Code](https://github.com/RobertNgo19/Face-Keypoint-Detection-w-CNN/blob/main/project/model.ipynb)
 
