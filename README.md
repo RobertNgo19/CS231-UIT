@@ -7,19 +7,18 @@
 <h1 align="center"><b>Computer Vision</b></h>
 
 ## Student
- MSSV          | Full name            | Github                    | Email                   |
+ ID          | Full name            | Github                    | Email                   |
  ------------- | ---------------------- |---------------------------|------------------------- 
- 19521994      | Ngô Thành Phát         |https://github.com/RobertNgo19 |19521994@gm.uit.edu.vn   |
+ 19521994      | Ngo Thanh Phat         |https://github.com/RobertNgo19 |19521994@gm.uit.edu.vn   |
  
   ## COURSE INTRODUCTION
 * **Subject Title:** Computer Vision
 * **Subject Code:** CS231
-* **Class Code:** CS231.N12.KHCL- VN
-* **Lecturers**: TS.Mai Tiến Dũng
-
-## Programing Languages: Python
+*  Hello everyone, in this repo I introduce  Computer Vision. This is one of the best practices for me to start my AI career.
+> Note: All knowledge **belonging to UIT** just use for study and research only
+## Programming Languages: Python
  
- ## Project: Face Expression Regconition
- - File Report: [Report](https://github.com/RobertNgo19/Face-Keypoint-Detection-w-CNN/blob/main/project/Report.pdf)
- - Code: [Code](https://github.com/RobertNgo19/Face-Keypoint-Detection-w-CNN/blob/main/project/model.ipynb)
+ ## Project: Face Expression Recognition
+ ### Report: [Report](https://github.com/RobertNgo19/Face-Keypoint-Detection-w-CNN/blob/main/project/Report.pdf)
+ ### Code: [Code](https://github.com/RobertNgo19/Face-Keypoint-Detection-w-CNN/blob/main/project/model.ipynb)
 
