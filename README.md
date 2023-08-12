@@ -12,8 +12,8 @@
  19521994      | Ngo Thanh Phat         |https://github.com/RobertNgo19 |19521994@gm.uit.edu.vn   |
  
   ## COURSE INTRODUCTION
-* **Subject Title:** Computer Vision
-* **Subject Code:** CS231
+* **Title:** Computer Vision
+* **Code:** CS231
 *  Hello everyone, in this repo I introduce  Computer Vision. This is one of the best practices for me to start my AI career.
 > Note: All knowledge **belonging to UIT** just use for study and research only
 ## Programming Languages: Python
